@@ -36,5 +36,5 @@ completionsFile = "data\\PreparednessCourseCompletions.xlsx"
 #Load completions file into a workbook object so we can manipulate the data sheet,
 #but leave the summary sheet intact (with the pivot table).
 wb <- write.xlsx2(PreparednessCompletions, completionsFile, row.names=FALSE)
-#wb <- write.csv(PreparednessCompletions, file = completionsFile)
+
 
