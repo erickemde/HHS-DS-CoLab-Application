@@ -41,5 +41,4 @@ FPM8@CDC.GOV
 > 5. Export the data and work with SMEs to confirm no non-IT courses were included
 > 6. Bring the data into an Excel spreadsheet, then create a summary tab that displays the KPIs
 ## 10. Please copy/paste a sample snippet of working code that you have created or applied (optional -- 2000 characters max). 
-Here is some R code I created to run a report on some preparedness training. 
-You can see it with its dependent files at [PreparednessCourseReport.R](https://github.com/erickemde/HHS-DS-CoLab-Application/PreparednessCourseReport.R)
+Here is some R code I created to run a report on some preparedness training: [PreparednessCourseReport.R](https://github.com/erickemde/HHS-DS-CoLab-Application/PreparednessCourseReport.R)
